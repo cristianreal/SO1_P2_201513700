@@ -8,6 +8,8 @@ Sistemas Operativos 1
 
 Segundo Semestre 2019
 
-## PRACTICA2
+# PRACTICA2
 
-[SO1]Practica2_201513700
+### [SO1]Practica2_201513700
+
+MODULOS PROPIOS
