@@ -32,7 +32,7 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Modulo para obtener informacion del estado de los proceso del cpu.");
 MODULE_AUTHOR("ChristianReal-201513700");
 /**
- * Fin del modulo
+ * Fin descripcion del modulo
 */
 
 /**
@@ -85,7 +85,7 @@ static int procedimiento_inicial(void)
 static void procedimiento_final(void)
 {
   remove_proc_entry(PROCESZ,NULL);
-  printk(KERN_INFO "Sistemas operativos 1 [Segundo Semestre 2019]\n");
+  printk(KERN_INFO "Sistemas Operativos 1 [Segundo Semestre 2019]\n");
 }
  
 module_init(procedimiento_inicial);
